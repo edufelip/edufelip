@@ -1,4 +1,4 @@
-<h2 align="center">I'm Eduardo Felipe! 😁</p>
+<h2 align="center">I'm Eduardo Felipe! 😁</h2>
 
 🇧🇷 RJ - Brazil  
 📱 Android Developer   
