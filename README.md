@@ -3,7 +3,8 @@
 🇧🇷 RJ - Brazil  
 📱 Android Developer   
 🖱 Java / Kotlin and others  
-📺 Check out my Youtube Channel: <a href="youtube.com/channel/UCYcwwX7nDU_U0FP-TsXMwVg" target="_blank">here</a>  
-🏢 Or maybe my Linkedin: <a href="linkedin.com/in/eduardo-felipe-dev" target="_blank">here</a>  
+📺 Check out my Youtube Channel: [here](https://www.youtube.com/channel/UCYcwwX7nDU_U0FP-TsXMwVg)  
+🏢 Or maybe my Linkedin: [here](https://www.linkedin.com/in/eduardo-felipe-dev)  
+
 
 ![](https://komarev.com/ghpvc/?username=edufelip)
