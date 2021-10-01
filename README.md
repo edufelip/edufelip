@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=edufelip)  
 
-Always trying to improve my ability to create good software and good content  
+Always trying to improve my ability to create good software
 
 🇧🇷 RJ - Brazil  
 📱 Android Developer   
