@@ -1,4 +1,4 @@
-<h3>I'm Eduardo Felipe! 😁</h3>  
+<h3>Hi, I'm Eduardo Felipe! 😁</h3>  
 
 ![](https://komarev.com/ghpvc/?username=edufelip)  
 
