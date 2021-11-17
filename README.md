@@ -7,5 +7,5 @@ Always trying to improve my ability to create good software
 🇧🇷 RJ - Brazil  
 📱 Android Developer   
 🖱 Java / Kotlin and others  
-📺 Check out my Youtube Channel: [here](https://www.youtube.com/channel/UCYcwwX7nDU_U0FP-TsXMwVg)  
+📺 Check out my Porfolio: [here](https://portfolio-edufelip.vercel.app/)  
 🏢 Or maybe my Linkedin: [here](https://www.linkedin.com/in/eduardo-felipe-dev)  
